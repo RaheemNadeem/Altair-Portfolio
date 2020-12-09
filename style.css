@@ -11,12 +11,12 @@
 
 
 @font-face {font-family: "Bradley Hand ITC V2";
-  src: url("/fonts/BradleyHand/0252223e8c36008b595f5e379ad5e524.eot"); /* IE9*/
-  src: url("/fonts/BradleyHand/0252223e8c36008b595f5e379ad5e524.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-  url("/fonts/BradleyHand/0252223e8c36008b595f5e379ad5e524.woff2") format("woff2"), /* chrome、firefox */
-  url("/fonts/BradleyHand/0252223e8c36008b595f5e379ad5e524.woff") format("woff"), /* chrome、firefox */
-  url("/fonts/BradleyHand/0252223e8c36008b595f5e379ad5e524.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-  url("/fonts/BradleyHand/0252223e8c36008b595f5e379ad5e524.svg#Bradley Hand ITC V2") format("svg"); /* iOS 4.1- */
+  src: url("fonts/BradleyHand/0252223e8c36008b595f5e379ad5e524.eot"); /* IE9*/
+  src: url("fonts/BradleyHand/0252223e8c36008b595f5e379ad5e524.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("fonts/BradleyHand/0252223e8c36008b595f5e379ad5e524.woff2") format("woff2"), /* chrome、firefox */
+  url("fonts/BradleyHand/0252223e8c36008b595f5e379ad5e524.woff") format("woff"), /* chrome、firefox */
+  url("fonts/BradleyHand/0252223e8c36008b595f5e379ad5e524.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("fonts/BradleyHand/0252223e8c36008b595f5e379ad5e524.svg#Bradley Hand ITC V2") format("svg"); /* iOS 4.1- */
 }
 
 
