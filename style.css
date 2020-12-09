@@ -551,10 +551,7 @@ a{
   margin-right: 30px;
   height: 105px;
 }
-.logo{
 
-  
-}
 
 
 
@@ -827,11 +824,6 @@ text-align: center;
 /* --------------------fourth Container----------------------- */
 
 
-.fourth-cont{
-
-
-  
-}
 
 .foot-cont{
   margin-left: 0px;
@@ -1063,9 +1055,7 @@ text-align: center;
 /* ---------------third Container---------------- */
 
 
-.third-cont{
-  
-}
+
 
 .nav-link{
 
@@ -1097,11 +1087,10 @@ text-align: center;
 /* --------------------fourth Container----------------------- */
 
 
-.fourth-cont{
 
 
   
-}
+
 
 .foot-cont{
   margin-left: 0px;
@@ -1133,10 +1122,7 @@ text-align: center;
 
 @media only screen and (max-width: 510px) {
 
-.mountain{
 
-  width: ;
-}
 }
 
 @media only screen and (max-width :450px){
@@ -1351,9 +1337,6 @@ text-align: center;
 /* ---------------third Container---------------- */
 
 
-.third-cont{
-  
-}
 
 .nav-link{
 
@@ -1619,9 +1602,7 @@ margin-top: 161px;
   /* ---------------third Container---------------- */
   
   
-  .third-cont{
-    
-  }
+
   
   .nav-link{
   
