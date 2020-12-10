@@ -1,4 +1,6 @@
 @charset "UTF-8";
+/* Altair Productions 
+  official website:-  https://altairproduction.live/ */
 @font-face {font-family: "Agency FB V2";
   src: url("fonts/AgencyFb/f9b9a4fce362a3a9111c138859ccb422.eot"); /* IE9*/
   src: url("fonts/AgencyFb/f9b9a4fce362a3a9111c138859ccb422.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
@@ -41,7 +43,8 @@
     
    
 }
-
+/* Altair Productions 
+  official website:-  https://altairproduction.live/ */
 
 .mountain{
 
@@ -79,7 +82,9 @@
   background: #888; 
 }
 
-/* Handle on hover */
+/* Handle on hover
+ Altair Productions 
+  official website:-  https://altairproduction.live/ */
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(85, 85, 85, 0.568); 
 }
@@ -184,7 +189,8 @@ margin-left: 40px;
 .underline{
     border-bottom:  rgba(0, 0, 0, 0.4) 2px solid;
     
-    
+    /* Altair Productions 
+  official website:-  https://altairproduction.live/ */
 }
 .mar{
     margin-right: 105px;
@@ -371,7 +377,8 @@ hr {
       transform: translateX(-100%);
     }
   }
-  
+  /* Altair Productions 
+  official website:-  https://altairproduction.live/ */
   @keyframes marquee2 {
     from {
       transform: translateX(0%);
@@ -484,7 +491,8 @@ hr {
 
 .cl{
 
-  margin-left: 410px;
+  margin-left: 410px;/* Altair Productions 
+  official website:-  https://altairproduction.live/ */
 }
 
 .second-cont{
@@ -644,7 +652,8 @@ display: inline;
   color: black;
   opacity: 55%;
   font-family: 'sacramento';
-  font-size: 55px;
+  font-size: 55px;/* Altair Productions 
+  official website:-  https://altairproduction.live/ */
   height: 54px;
   margin-bottom: 0px;
 }
@@ -756,7 +765,8 @@ margin-right: auto !important;
   text-align: justify;
 }
 .content-1{
-
+/* Altair Productions 
+  official website:-  https://altairproduction.live/ */
   margin-left: auto !important;
   margin-right: auto !important;
 text-align: center;
@@ -873,7 +883,8 @@ text-align: center;
 
 
 @media only screen and (max-width: 576px) {
-
+/* Altair Productions 
+  official website:-  https://altairproduction.live/ */
   /* ---------------scroll- Bar--------------- */
   
 
@@ -1633,7 +1644,9 @@ margin-top: 161px;
   
   
   
-  /* --------------------fourth Container----------------------- */
+  /* --------------------fourth Container---------Altair Productions 
+  official website:-  https://altairproduction.live/
+  ---------------- */
   
   
   .fourth-cont{
